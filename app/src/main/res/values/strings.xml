@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Virtual Stock Market Updated</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email ID</string>
+    <string name="Login">Log me In</string>
+    <string name="Signup">Sign me Up</string>
+    <string name="title_activity_activity_ignup__screen">Activity_ignup_Screen</string>
+    <string name="title_activity_signup__screen">Signup_Screen</string>
+    <string name="Mobile_Number">Mobile Number</string>
+    <string name="Username">Username</string>
+    <string name="Conf_Password">Confirm Password</string>
+    <string name="title_activity_home__screen">Home_Screen</string>
+    <string name="title_activity_home__screen_2">Home_Screen_2</string>
+</resources>
